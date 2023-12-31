@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.travel-heading {
+  text-align: center;
+  font-family: 'Roboto';
+  color: #334155;
+  margin-bottom: 0px;
+}
+.horizontal-line {
+  background-color: #52bbf0;
+  height: 3px;
+  width: 13vw;
+  margin-top: 0px;
+}
+.travel-list {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.bottom-container {
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50vh;
+}

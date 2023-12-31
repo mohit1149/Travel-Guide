@@ -1,0 +1,27 @@
+.item-bg-container {
+  background-color: #ffffff;
+  width: 40vw;
+  height: 50vh;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.image-small {
+  width: 40vw;
+  height: 25vh;
+}
+.name-paragraph {
+  color: #475569;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.description-paragraph {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding-left: 9px;
+  padding-right: 9px;
+}
